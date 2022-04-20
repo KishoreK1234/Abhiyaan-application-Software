@@ -1,0 +1,8 @@
+<launch>
+
+  
+
+  <node pkg="beginner_tutorials" name="pub" type="talker" output ="screen"></node>
+  <node pkg="beginner_tutorials" name="sub" type="listener" output ="screen"></node>
+
+</launch>
