@@ -51,8 +51,8 @@ For Task 3
 
 Type the following in terminal
 
-rosrun turtlesim turtlesim_node
-rosservice call /spawn 3.5 5 1.5707 turtle1
-rosservice call /spawn 6.5 5 4.7121 turtle2
-rosrun beginner_tutorials turtletask
+rosrun turtlesim turtlesim_node;
+rosservice call /spawn 3.5 5 1.5707 turtle1;
+rosservice call /spawn 6.5 5 4.7121 turtle2;
+rosrun beginner_tutorials turtletask;
 
